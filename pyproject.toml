@@ -1,5 +1,5 @@
 [project]
-name = "osv5m"
+name = "models"
 version = "0.1.0"
 description = ""
 authors = [
